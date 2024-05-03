@@ -21,7 +21,7 @@
 + **Better algorithms can speed up the iterative process by reducing the necessary computation time.**
 + *Larger amounts of data allow researchers to try more ideas and then produce better algorithms in less time.*
 + *Better algorithms allow engineers to get more data and then produce better Deep Learning models.*
-+ **Improvements in the GPU/CPU hardware enable the discovery of better Deep Learning algorithms.*
++ **Improvements in the GPU/CPU hardware enable the discovery of better Deep Learning algorithms.**
 
 4. When building a neural network to predict housing price from features like size, the number of bedrooms, zip code, and wealth, it is necessary to come up with other features in between input and output like family size and school quality. True/False?
 + *True*
@@ -103,11 +103,14 @@ ReLU activation function
 + *Increasing the training set size of a traditional learning algorithm always improves its performance.*
 
 17. Which of the following best describes the role of AI in the expression "an AI-powered society"
-+ maybe AI is an essential ingredient in realizing tasks, in industry and in personal life.
++ **AI is an essential ingredient in realizing tasks, in industry and in personal life.**
 + *AI helps to create a more efficient way of producing energy to power industries and personal devices.*
-+ maybe AI controls the power grids for energy distribution, so all the power needed for industry and in daily life comes from AI.
++ *AI controls the power grids for energy distribution, so all the power needed for industry and in daily life comes from AI.*
 
 18. When experienced deep learning engineers work on a new problem, they can usually use insight from previous problems to train a good model on the first try, without needing to iterate multiple times through different models. True/False?
 + *True*
 + **False**
 
+19. Images for cat recognition is an example of “structured” data, because it is represented as a structured array in a computer. True/False?
++ *True*
++ **False**
