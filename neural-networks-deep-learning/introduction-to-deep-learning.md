@@ -14,8 +14,8 @@
 
 3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)
 ![test](assets/image1.png)
-+ (maybe) Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware).
-+ (maybe) It is faster to train on a big dataset than a small dataset.
++ **Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware).**
++ *It is faster to train on a big dataset than a small dataset.*
 + **Faster computation can help speed up how long a team takes to iterate to a good idea.**
 + **Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.**
 + **Better algorithms can speed up the iterative process by reducing the necessary computation time.**
@@ -73,6 +73,11 @@
 
 tanh activation function
 
+
+![ReLU](assets/image5.png)
+
+ReLU activation function
+
 14. Which of the following are examples of structured data? Choose all that apply.
 + **A dataset of weight, height, age, the sugar level in the blood, and arterial pressure.**
 + *A dataset with short poems.*
@@ -93,7 +98,16 @@ tanh activation function
 16. Assuming the trends described in the figure are accurate. Which of the following statements are true? Choose all that apply.
 ![figure](assets/image2.png)
 + **Increasing the size of a neural network generally does not hurt an algorithm’s performance, and it may help significantly.**
-+ maybe Increasing the training set size of a traditional learning algorithm stops helping to improve the performance after a certain size.
-+ maybe Decreasing the training set size generally does not hurt an algorithm’s performance, and it may help significantly.
++ **Increasing the training set size of a traditional learning algorithm stops helping to improve the performance after a certain size.**
++ *Decreasing the training set size generally does not hurt an algorithm’s performance, and it may help significantly.*
 + *Increasing the training set size of a traditional learning algorithm always improves its performance.*
+
+17. Which of the following best describes the role of AI in the expression "an AI-powered society"
++ maybe AI is an essential ingredient in realizing tasks, in industry and in personal life.
++ *AI helps to create a more efficient way of producing energy to power industries and personal devices.*
++ maybe AI controls the power grids for energy distribution, so all the power needed for industry and in daily life comes from AI.
+
+18. When experienced deep learning engineers work on a new problem, they can usually use insight from previous problems to train a good model on the first try, without needing to iterate multiple times through different models. True/False?
++ *True*
++ **False**
 
